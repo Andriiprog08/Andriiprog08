@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am an IT studen. My direction programmer and developer is offered.
 <!--
 **Andriiprog08/Andriiprog08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
