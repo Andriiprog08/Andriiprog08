@@ -17,12 +17,25 @@
 
 ---
 
+## 🚀 Featured Project
+
+### 🍰 Cake Logical
+> Desktop app for a cake-making client to track ingredient costs and pricing.
+
+- Built with **Electron + HTML/CSS/JS**, packaged as a Windows `.exe` installer
+- Local data persistence via **localStorage** — works fully offline
+- Warm, pastry-themed UI designed around the client's brand
+- 🔒 Private client repo — happy to share a demo/screenshots on request
+
+---
+
 ## 🛠️ My Tech Stack
 
 | 💡 Technology | 📊 Level |
 |---|---|
 | 🌐 **HTML & CSS** | ███████████░ Solid |
 | 🐍 **Python + Flask** | ████████░░░ Deep Dive |
+| 🖥️ **Electron (Desktop Apps)** | ██████░░░░░░ Built my first release |
 | ⚡ **JavaScript & React** | ███████░░░░ Current Focus |
 | 🐧 **Linux Ubuntu** | █████░░░░░░ Learning |
 
@@ -34,6 +47,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -68,6 +82,7 @@ me.say_hi()
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/found.404f)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Andriiprog08)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/black_skull_085)
 
 > 💬 *Interested in working on projects together? Message me on Instagram — I'd love to meet new people!*
 
