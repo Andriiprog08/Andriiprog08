@@ -29,10 +29,10 @@
 - 🔒 Private client repo — happy to share a demo/screenshots on request
 
 <p align="center">
-  <img src="assets/CL-main.png" width="70%" />
+  <img src="assets/CL-main.png" width="40%" />
 </p>
 <p align="center">
-  <img src="assets/CL-helper.png" width="40%" />
+  <img src="assets/CL-helper.png" width="70%" />
 </p>
 
 ---
