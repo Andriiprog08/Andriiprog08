@@ -44,8 +44,16 @@
 | 🌐 **HTML & CSS**              | ███████████░ Solid                  |
 | 🐍 **Python + Flask**          | ████████░░░ Deep Dive               |
 | 🖥️ **Electron (Desktop Apps)** | ██████░░░░░░ Built my first release |
-| ⚡ **JavaScript & React**      | ███████░░░░ Current Focus           |
+| ⚡ **JavaScript**              | ██████░░░░░░ Learning               |
 | 🐧 **Linux Ubuntu**            | █████░░░░░░ Learning                |
+
+---
+
+## 🧊 On Hold
+
+> Paused for now while I focus on Python + Cybersecurity fundamentals — planning to come back to it.
+
+- ⚡ **React** — built basic components/hooks, comfortable with JSX, paused mid-learning
 
 ---
 
@@ -90,6 +98,7 @@ me.say_hi()
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/found.404f)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Andriiprog08)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@found.404f)
 
 > 💬 _Interested in working on projects together? Message me on Instagram — I'd love to meet new people!_
 
