@@ -20,6 +20,7 @@
 ## 🚀 Featured Project
 
 ### 🍰 Cake Logical
+
 > Desktop app for a cake-making client to track ingredient costs and pricing.
 
 - Built with **Electron + HTML/CSS/JS**, packaged as a Windows `.exe` installer
@@ -27,17 +28,24 @@
 - Warm, pastry-themed UI designed around the client's brand
 - 🔒 Private client repo — happy to share a demo/screenshots on request
 
+<p align="center">
+  <img src="assets/CL-main.png" width="70%" />
+</p>
+<p align="center">
+  <img src="assets/CL-helper.png" width="40%" />
+</p>
+
 ---
 
 ## 🛠️ My Tech Stack
 
-| 💡 Technology | 📊 Level |
-|---|---|
-| 🌐 **HTML & CSS** | ███████████░ Solid |
-| 🐍 **Python + Flask** | ████████░░░ Deep Dive |
+| 💡 Technology                  | 📊 Level                            |
+| ------------------------------ | ----------------------------------- |
+| 🌐 **HTML & CSS**              | ███████████░ Solid                  |
+| 🐍 **Python + Flask**          | ████████░░░ Deep Dive               |
 | 🖥️ **Electron (Desktop Apps)** | ██████░░░░░░ Built my first release |
-| ⚡ **JavaScript & React** | ███████░░░░ Current Focus |
-| 🐧 **Linux Ubuntu** | █████░░░░░░ Learning |
+| ⚡ **JavaScript & React**      | ███████░░░░ Current Focus           |
+| 🐧 **Linux Ubuntu**            | █████░░░░░░ Learning                |
 
 ---
 
@@ -82,9 +90,8 @@ me.say_hi()
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/found.404f)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Andriiprog08)
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/black_skull_085)
 
-> 💬 *Interested in working on projects together? Message me on Instagram — I'd love to meet new people!*
+> 💬 _Interested in working on projects together? Message me on Instagram — I'd love to meet new people!_
 
 </div>
 
@@ -92,6 +99,6 @@ me.say_hi()
 
 <div align="center">
 
-*⭐ If you like what I do, consider starring my repos!*
+_⭐ If you like what I do, consider starring my repos!_
 
 </div>
