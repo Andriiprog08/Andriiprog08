@@ -2,7 +2,7 @@
 
 # Hey, I'm Andrii! 👋🔥
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=IT+Student+%F0%9F%8E%93;Software+Engineer+in+Progress+%F0%9F%9A%80;Cybersecurity+Explorer+%F0%9F%94%90;Always+Learning+%F0%9F%92%AA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=IT+Student+%F0%9F%8E%93;Web+Developer+in+Progress+%F0%9F%9A%80;Building+with+HTML%2C+CSS+%26+JS+%E2%9A%A1;Always+Learning+%F0%9F%92%AA)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,8 +10,8 @@
 
 ## 🧑‍💻 About Me
 
-> 🎓 IT student focused on **Software Engineering & Development**  
-> 🔐 Recently started exploring the world of **Cybersecurity**  
+> 🎓 IT student focused on **Web Developer | Building Desktop Apps with Electron**  
+> ⚡ Actively learning and using **HTML, CSS, JavaScript & Flask**  
 > 🤝 Looking for friends to collaborate on projects together!  
 > 📸 Sharing IT knowledge bits on **Instagram**
 
@@ -41,17 +41,17 @@
 
 | 💡 Technology                  | 📊 Level                            |
 | ------------------------------ | ----------------------------------- |
-| 🌐 **HTML & CSS**              | ███████████░ Solid                  |
-| 🐍 **Python + Flask**          | ████████░░░ Deep Dive               |
+| 🌐 **HTML & CSS**              | ███████████░ Actively using         |
+| 🐍 **Python + Flask**          | ████████░░░ Actively learning       |
 | 🖥️ **Electron (Desktop Apps)** | ██████░░░░░░ Built my first release |
-| ⚡ **JavaScript**              | ██████░░░░░░ Learning               |
+| ⚡ **JavaScript**              | ██████░░░░░░ Actively Learning      |
 | 🐧 **Linux Ubuntu**            | █████░░░░░░ Learning                |
 
 ---
 
 ## 🧊 On Hold
 
-> Paused for now while I focus on Python + Cybersecurity fundamentals — planning to come back to it.
+> Paused for now while I focus on core web development fundamentals — planning to come back to it.
 
 - ⚡ **React** — built basic components/hooks, comfortable with JSX, paused mid-learning
 
@@ -59,15 +59,23 @@
 
 ## 📊 My Skills
 
+**Languages**
+
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Frameworks & Tools**
+
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Platforms**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
@@ -79,13 +87,13 @@ class Andrii:
     def __init__(self):
         self.name = "Andrii"
         self.role = "IT Student"
-        self.skills = ["HTML/CSS", "Python", "JavaScript", "React"]
-        self.learning = ["Flask", "Linux", "Cybersecurity"]
+        self.skills = ["HTML/CSS", "JavaScript", "Python", "Flask"]
+        self.learning = ["Flask", "JavaScript", "Linux"]
         self.goal = "Build cool projects with cool people 🚀"
-
+ 
     def say_hi(self):
         print("Thanks for visiting my profile! Let's build something together 💪")
-
+ 
 me = Andrii()
 me.say_hi()
 ```
